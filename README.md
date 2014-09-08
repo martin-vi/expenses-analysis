@@ -55,4 +55,4 @@ Verwendete R Bibliotheken:
 | 25.8. | Montag     | Person B    | 44.86       |
 | 26.8. | Dienstag   | Person B    | 5.9         |
 
-Rohdaten für R, [hier](master/data.txt).
+Rohdaten für R, [hier](https://raw.githubusercontent.com/martin-vi/expenses-analysis/master/data.txt).
