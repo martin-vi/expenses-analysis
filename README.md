@@ -17,8 +17,8 @@ Verwendete R Bibliotheken:
 
 ## Plots / Ausgabe
 
-.. figure:: https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-1.png
+![plot1](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-1.png)
 
-.. figure:: https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-2.png
+![plot2](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-2.png
 
-.. figure:: https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-3.png
+![plot3](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-3.png
