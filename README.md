@@ -2,7 +2,7 @@
 
 Auswertung von Ausgaben von zwei Personen über mehrere Tage.
 
-Ziel: R lernen …
+**Ziel**: R lernen …
 
 ## compile R script
 
@@ -16,9 +16,8 @@ Verwendete R Bibliotheken:
 * ggplot2
 
 ## Plots / Ausgabe
+![plot1](https://raw.githubusercontent.com/martin-vi/expenses-analysis/master/img/plot-1.png)
 
-![plot1](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-1.png)
+![plot2](https://raw.githubusercontent.com/martin-vi/expenses-analysis/master/img/plot-2.png)
 
-![plot2](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-2.png
-
-![plot3](https://github.com/martin-vi/expenses_analysis/raw/master/img/plot-3.png
+![plot3](https://raw.githubusercontent.com/martin-vi/expenses-analysis/master/img/plot-3.png)
